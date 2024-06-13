@@ -5,7 +5,7 @@
 Este proyecto tiene como objetivo la generación y presentación de la documentación de las evidencias realizadas durante el curso de Gestión Empresarial.
 Utilizamos una plantilla de Bootstrap para facilitar y agilizar la creación del portafolio de evidencias.
 
-## Instalación.
+## Creación.
 Para la construcción del portafolio, se requirieron conocimientos básicos de las siguientes tecnologías:
 - HTML5
 - CSS
@@ -30,7 +30,7 @@ Para la elaboración del proyecto, participamos los siguientes estudiantes:
 ## Instrucciones de Uso
 1. **Clonar el Repositorio**:
     ```bash
-    git clone https://github.com/https://github.com/Ceeeeeeees/Proyecto-Gestion
+    git clone https://github.com/Ceeeeeeees/Proyecto-Gestion
     ```
 2. **Abrir el Archivo Principal**:
     Navegar hasta la carpeta del proyecto y abrir el archivo `index.html` en un navegador web.
