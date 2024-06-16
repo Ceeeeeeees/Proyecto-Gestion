@@ -23,9 +23,8 @@ Para la elaboración del proyecto, participamos los siguientes estudiantes:
 
 ## Estructura del Proyecto
 - **index.html**: Página principal del portafolio.
-- **styles.css**: Archivo CSS personalizado para estilos adicionales.
-- **bootstrap/**: Carpeta que contiene los archivos de la plantilla Bootstrap utilizada.
-- **evidencias/**: Carpeta con las evidencias documentadas y otros recursos necesarios para el portafolio.
+- **assets/**: Es la carpeta que contiene algunos de los archivos de la plantilla Bootstrap utilizada.
+- **evidencias/**: En él se encuentran algunas evidencias que son del tipo visual para su mejor tratamiento dentro de nuestra página.
 
 ## Instrucciones de Uso
 1. **Clonar el Repositorio**:
