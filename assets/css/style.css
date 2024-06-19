@@ -2,21 +2,36 @@
     background-color: #4b75ff;
     color: #ffbfbf;
     padding: 20px 0;
-    margin-top: 50px; /* Ajusta este valor según sea necesario para el espacio deseado */
+    margin-top: 50px;
+    /* Ajusta este valor según sea necesario para el espacio deseado */
     text-align: center;
 }
+
 .footer .list-inline-item {
-    margin-right: 15px; /* Ajusta el espacio entre los íconos */
+    margin-right: 15px;
+    /* Ajusta el espacio entre los íconos */
 }
+
 .footer .fa-stack {
-    color: #000000; /* Cambia el color de los íconos */
+    color: #000000;
+    /* Cambia el color de los íconos */
 }
 
 .card-text {
     text-align: justify;
 }
 
-.navbar-brand img{
-    width: 32px;
-    height: 32px;
+.navbar-brand img {
+    width: 25px;
+    height: 25px;
+}
+
+#mainNav {
+    
+    font-size: 14px;
+    padding: 10px;
+}
+
+.post-preview {
+    text-align: justify;
 }
