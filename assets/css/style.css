@@ -1,12 +1,76 @@
-.footer {
-    background-color: rgba(200, 170,140,.25);
-    color: #ffbfbf;
-    padding: 20px 0;
-    margin-top: 50px;
-    /* Ajusta este valor según sea necesario para el espacio deseado */
-    text-align: center;
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    color: #333;
 }
 
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url('assets/img/GestionOperativa.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 100px 0;
+    color: white;
+}
+
+.masthead .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.masthead .container {
+    position: relative;
+    z-index: 2;
+}
+
+.masthead h1,
+.masthead .subheading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #007bff;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: #02194b;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+ul,
+ol {
+    margin-left: 20px;
+}
+
+ul li,
+ol li {
+    margin-bottom: 10px;
+}
+
+article {
+    background: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+    background-color: #cddaf3;
+    color: #ffbfbf;
+    padding: 20px 0;
+    margin-top: 50px; /* Ajusta este valor según sea necesario para el espacio deseado */
+    text-align: center;
+}
 .footer .list-inline-item {
     margin-right: 15px;
     /* Ajusta el espacio entre los íconos */
@@ -33,12 +97,5 @@
 }
 
 .post-preview {
-    text-align: justify;
-}
-
-#IDTitulo{
-    text-align: center;
-}
-#Introductorio{
     text-align: justify;
 }
