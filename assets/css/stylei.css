@@ -1,0 +1,120 @@
+.footer {
+    background-color: rgba(200, 170,140,.25);
+    color: #ffbfbf;
+    padding: 20px 0;
+    margin-top: 50px;
+    /* Ajusta este valor según sea necesario para el espacio deseado */
+    text-align: center;
+}
+
+.footer .list-inline-item {
+    margin-right: 15px;
+    /* Ajusta el espacio entre los íconos */
+}
+
+.footer .fa-stack {
+    color: #000000;
+    /* Cambia el color de los íconos */
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.navbar-brand img {
+    width: 25px;
+    height: 25px;
+}
+
+#mainNav {
+    
+    font-size: 14px;
+    padding: 10px;
+}
+
+.post-preview {
+    text-align: justify;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.masthead {
+    padding: 100px 0;
+    color: white;
+    text-align: center;
+}
+
+.masthead .overlay {
+    opacity: 0.3;
+    background-color: black;
+}
+
+.site-heading {
+    position: relative;
+    z-index: 2;
+}
+
+.post-preview {
+    margin-bottom: 2rem;
+}
+
+.intro-section {
+    background-color: #f4f4f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.intro-section .logos img {
+    margin: 10px 20px;
+}
+
+.intro-section .intro-text {
+    text-align: center;
+}
+
+.intro-section h2 {
+    font-size: 1.75rem;
+    color: #333;
+}
+
+.intro-section h3 {
+    font-size: 1.5rem;
+    color: #555;
+}
+
+.intro-section h4 {
+    font-size: 1.25rem;
+    color: #777;
+}
+
+.intro-section h5 {
+    font-size: 1rem;
+    color: #999;
+}
+
+.intro-section ul {
+    margin: 20px 0;
+    padding-left: 0;
+    list-style: none;
+    text-align: left;
+}
+
+.intro-section ul li {
+    color: #555;
+}
+
+#project-description p,
+#problematic p,
+#objective p,
+#justification p {
+    text-align: justify;
+}
+.bg-light-gray {
+    background-color: #f4f4f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
